@@ -1,4 +1,3 @@
-import uvicorn
 import telebot
 import random
 from langchain.prompts import PromptTemplate
