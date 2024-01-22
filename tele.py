@@ -7,7 +7,7 @@ from langchain.schema import StrOutputParser
 import time
 from langchain_google_genai import ChatGoogleGenerativeAI
 import os
-import streanlit as st
+import streamlit as st
 from pymongo import MongoClient
 
 st.title("Hello I am Coda in Tele")
